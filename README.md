@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StephaneLin
+- 👋 Hi, I’m Stephane Lin, french student
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me stephanelin00@gmail.com
