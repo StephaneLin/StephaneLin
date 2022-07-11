@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Stephane Lin, french student
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m Stephane Lin, newly graduated
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me stephanelinqc@gmail.com
 
